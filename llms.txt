@@ -1,0 +1,41 @@
+# Prescient Healthcare Services
+
+> Revenue cycle management and executive-level financial oversight for US healthcare practices - recovering the 3-5% of net patient revenue lost to preventable breakdowns.
+
+Website: https://www.theprescienthealthcare.com/
+Contact: imran.arif@prescient.com.pk
+
+## What we do
+
+- **Complete Medical Billing Cycle** - End-to-end ownership of the revenue cycle — from the first eligibility check through appeals, patient statements and monthly financial reporting. Every step below is run by our team, on your schedule.
+- **Fractional CFO** - Executive financial leadership without the full-time cost — forecasting, payer negotiation and expansion modelling.
+- **Risk Advisory** - CMS clawback defense, HIPAA compliance framework and a payer-audit playbook ready before the letter arrives.
+- **Business Intelligence & Reporting** - We convert operational data into performance insights — healthcare-specific monthly P&L, not generic bookkeeping.
+
+## Leadership
+
+- Salman Ahson, Partner
+- Waqas Sarfraz, Partner
+- Imran Arif, Partner
+- Aamir Aijaz, Partner
+
+## Frequently asked questions
+
+### What exactly does offshoring our billing change day to day?
+Your front desk still checks patients in and your providers still document as they do now. Everything after that — eligibility, coding review, submission, posting, follow-up and appeals — moves to our team. You keep your existing practice management system and clearinghouse; we work inside them rather than asking you to migrate.
+
+### How is our patient data protected?
+We operate under signed Business Associate Agreements and a HIPAA compliance framework covering access controls, audit logging, encrypted transmission and staff training. Access is role-based and limited to the people assigned to your account. We are equally happy to work within your own security requirements where they are stricter.
+
+### Will an offshore team understand our payers and specialty?
+Our staff are trained on US payer rules and stay current on CMS guidance, commercial payer policy, AMA coding standards and HIPAA. Each account is assigned a consistent team that learns your specialty, your payer mix and your fee schedule rather than rotating between clients.
+
+### How quickly does the transition happen?
+Most practices are running fully with us inside two to four weeks. We start with the free revenue audit, then run parallel for a short period so nothing drops while credentials, EDI enrollments and workflows are handed over.
+
+### What does this actually cost compared with billing in-house?
+Offshoring removes the salary, benefits, turnover and software overhead of an in-house billing function, and the fractional CFO model delivers executive financial oversight without a full-time hire. Pricing is discussed after the audit, once we can both see the real volume and the recoverable revenue involved.
+
+## Pages
+
+- [Home](https://www.theprescienthealthcare.com/): services, guarantee, insights, team, FAQ and contact on one page.
